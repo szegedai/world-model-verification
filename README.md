@@ -19,16 +19,15 @@ Coming soon...
 Coming soon...
 
 ### Citation
-Official ICLR citation coming soon...
+
 ```
-@misc{balogh2026verificationimplicitworldmodel,
-      title={Verification of the Implicit World Model in a Generative Model via Adversarial Sequences},
-      author={András Balogh and Márk Jelasity},
-      year={2026},
-      eprint={2602.05903},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2602.05903},
+@inproceedings{
+  balogh2026verification,
+  title={Verification of the Implicit World Model in a Generative Model via Adversarial Sequences},
+  author={Andr{\'a}s Balogh and M{\'a}rk Jelasity},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={https://openreview.net/forum?id=BLOIB8CwBI}
 }
 ```
 
